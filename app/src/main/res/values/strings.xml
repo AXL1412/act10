@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Act10</string>
+
+    <!-- Navigation -->
+    <string name="previous_button">Anterior</string>
+    <string name="next_button">Siguiente</string>
+
+    <!-- Photo Titles -->
+    <string name="photo_1_title">Detalle Arquitectónico</string>
+    <string name="photo_2_title">Niebla Costera</string>
+    <string name="photo_3_title">Interior Moderno</string>
+    <string name="photo_4_title">Dunas del Desierto</string>
+    <string name="photo_5_title">Geometría Urbana</string>
+
+    <!-- Photo Descriptions -->
+    <string name="photo_1_description">Líneas minimalistas y texturas de hormigón.</string>
+    <string name="photo_2_description">Mañana brumosa sobre una costa serena.</string>
+    <string name="photo_3_description">Diseño de interiores limpio y moderno.</string>
+    <string name="photo_4_description">Patrones abstractos en las dunas de arena.</string>
+    <string name="photo_5_description">Formas geométricas de la fachada de un edificio moderno.</string>
+    
+    <!-- Dummy string to force resource recompilation -->
+    <string name="force_recompile_string">v1.3</string>
+</resources>
